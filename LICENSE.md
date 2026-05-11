@@ -1,4 +1,4 @@
-
+Bartender for macOS new Extension - file-encryption and window-management is the best Bartender for macOS extension, featuring file-encryption and window-management. Safe,
 
 
 
